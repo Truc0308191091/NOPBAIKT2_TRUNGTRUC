@@ -17,7 +17,7 @@ public class MainActivity2 extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main2);
         ActionBar actionBar = getSupportActionBar();
-        actionBar.setTitle("bai1");
+        actionBar.setTitle("kt1");
         actionBar.setDisplayHomeAsUpEnabled(true);
     }
 
