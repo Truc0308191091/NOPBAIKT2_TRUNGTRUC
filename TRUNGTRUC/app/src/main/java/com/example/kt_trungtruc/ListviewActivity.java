@@ -7,26 +7,19 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.widget.ImageView;
-import android.widget.TextView;
+import android.view.View;
 import android.widget.Toast;
 
-public class MainActivity2 extends AppCompatActivity {
-    TextView canhan;
+public class ListviewActivity extends AppCompatActivity {
     Intent i;
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main2);
+        setContentView(R.layout.activity_listview);
         ActionBar actionBar = getSupportActionBar();
-        actionBar.setTitle("kt1");
+        actionBar.setTitle("KT Số 3");
         actionBar.setDisplayHomeAsUpEnabled(true);
     }
-
-
-
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         getMenuInflater().inflate(R.menu.mymenu, menu);
@@ -49,7 +42,7 @@ public class MainActivity2 extends AppCompatActivity {
                 break;
             case R.id.menu3:
                 //code xử lý khi bấm menu3
-                i = new Intent(MainActivity2.this,MainActivity4.class);
+                i = new Intent(ListviewActivity.this,MainActivity3.class);
                 startActivity(i);
                 break;
             case R.id.menu4:
@@ -62,4 +55,18 @@ public class MainActivity2 extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
+    public void moManHinhListView1(View view) {
+        i = new Intent(ListviewActivity.this,Listview1Activity.class);
+        startActivity(i);
+    }
+
+    public void moManHinhListView2(View view) {
+        i = new Intent(ListviewActivity.this,Listview2Activity.class);
+        startActivity(i);
+    }
+
+    public void moManHinhListView3(View view) {
+        i = new Intent(ListviewActivity.this,Listview3Activity.class);
+        startActivity(i);
+    }
 }
