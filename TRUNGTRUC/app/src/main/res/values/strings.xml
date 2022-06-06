@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">KT_GiaBao</string>
-    <string-array name="listcm2">
+    <string name="app_name">TRUNGTRUC</string>
+    <string-array name="myArray">
         <item>An Giang</item>
         <item>Bà rịa – Vũng tàu</item>
         <item>Bắc Giang</item>
