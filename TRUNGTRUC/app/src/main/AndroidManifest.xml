@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.KT_TrungTruc">
         <activity
+            android:name=".TTSVActivity"
+            android:exported="false" />
+        <activity
             android:name=".Listview3Activity"
             android:exported="false" />
         <activity
