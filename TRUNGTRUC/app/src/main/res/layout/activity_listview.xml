@@ -26,5 +26,11 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:onClick="moManHinhListView3"
-        android:text="Thêm " />
+        android:text="DANH BA " />
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="moManHinhListView4"
+        android:text="Listview Nang Cao" />
 </LinearLayout>

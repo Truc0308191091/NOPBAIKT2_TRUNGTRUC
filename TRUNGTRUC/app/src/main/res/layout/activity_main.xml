@@ -32,11 +32,12 @@
             android:id="@+id/button"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
+            android:layout_marginRight="30px"
             android:layout_weight="1"
-            android:textColor="#100F0F"
             android:background="@drawable/botron"
+            android:onClick="xuLyThoat"
             android:text="Thoát"
-            android:onClick="xuLyThoat"/>
+            android:textColor="#100F0F" />
     </LinearLayout>
 
 
@@ -131,7 +132,7 @@
                 android:textColor="@color/black"
                 android:textSize="15dp"
                 android:gravity="center"
-                android:text="Khách hàng" />
+                android:text="số 3" />
         </LinearLayout>
 
         <LinearLayout
@@ -157,7 +158,7 @@
                 android:textStyle="bold"
                 android:textColor="@color/black"
                 android:paddingBottom="15dp"
-                android:text="Danh sách tuyến" />
+                android:text="KT số 5" />
         </LinearLayout>
     </LinearLayout>
 

@@ -69,4 +69,9 @@ public class ListviewActivity extends AppCompatActivity {
         i = new Intent(ListviewActivity.this,Listview3Activity.class);
         startActivity(i);
     }
+
+    public void moManHinhListView4(View view) {
+        i = new Intent(ListviewActivity.this,Listview4Activity.class);
+        startActivity(i);
+    }
 }

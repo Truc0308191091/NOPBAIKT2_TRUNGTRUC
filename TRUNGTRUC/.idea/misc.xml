@@ -3,11 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/GITHUB/NOPBAIKT2_TRUNGTRUC/TRUNGTRUC/app/src/main/res/layout/activity_listview.xml" value="0.16" />
+        <entry key="..\:/GITHUB/NOPBAIKT2_TRUNGTRUC/TRUNGTRUC/app/src/main/res/drawable/botron.xml" value="0.182" />
+        <entry key="..\:/GITHUB/NOPBAIKT2_TRUNGTRUC/TRUNGTRUC/app/src/main/res/layout/activity_listview.xml" value="0.152" />
         <entry key="..\:/GITHUB/NOPBAIKT2_TRUNGTRUC/TRUNGTRUC/app/src/main/res/layout/activity_listview1.xml" value="0.2" />
         <entry key="..\:/GITHUB/NOPBAIKT2_TRUNGTRUC/TRUNGTRUC/app/src/main/res/layout/activity_listview2.xml" value="0.1" />
-        <entry key="..\:/GITHUB/NOPBAIKT2_TRUNGTRUC/TRUNGTRUC/app/src/main/res/layout/activity_listview3.xml" value="0.4" />
-        <entry key="..\:/GITHUB/NOPBAIKT2_TRUNGTRUC/TRUNGTRUC/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/GITHUB/NOPBAIKT2_TRUNGTRUC/TRUNGTRUC/app/src/main/res/layout/activity_listview3.xml" value="0.2" />
+        <entry key="..\:/GITHUB/NOPBAIKT2_TRUNGTRUC/TRUNGTRUC/app/src/main/res/layout/activity_listview4.xml" value="0.12360688956433637" />
+        <entry key="..\:/GITHUB/NOPBAIKT2_TRUNGTRUC/TRUNGTRUC/app/src/main/res/layout/activity_listview5.xml" value="0.1480978260869565" />
+        <entry key="..\:/GITHUB/NOPBAIKT2_TRUNGTRUC/TRUNGTRUC/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/GITHUB/NOPBAIKT2_TRUNGTRUC/TRUNGTRUC/app/src/main/res/layout/activity_main10.xml" value="0.1" />
         <entry key="..\:/GITHUB/NOPBAIKT2_TRUNGTRUC/TRUNGTRUC/app/src/main/res/layout/activity_main2.xml" value="0.1" />
         <entry key="..\:/GITHUB/NOPBAIKT2_TRUNGTRUC/TRUNGTRUC/app/src/main/res/layout/activity_main20.xml" value="0.1" />
@@ -18,8 +21,12 @@
         <entry key="..\:/GITHUB/NOPBAIKT2_TRUNGTRUC/TRUNGTRUC/app/src/main/res/layout/activity_main7.xml" value="0.1" />
         <entry key="..\:/GITHUB/NOPBAIKT2_TRUNGTRUC/TRUNGTRUC/app/src/main/res/layout/activity_main8.xml" value="0.1" />
         <entry key="..\:/GITHUB/NOPBAIKT2_TRUNGTRUC/TRUNGTRUC/app/src/main/res/layout/activity_main9.xml" value="0.1" />
+        <entry key="..\:/GITHUB/NOPBAIKT2_TRUNGTRUC/TRUNGTRUC/app/src/main/res/layout/activity_product.xml" value="0.1" />
         <entry key="..\:/GITHUB/NOPBAIKT2_TRUNGTRUC/TRUNGTRUC/app/src/main/res/layout/activity_ttsvactivity.xml" value="0.1" />
-        <entry key="..\:/GITHUB/NOPBAIKT2_TRUNGTRUC/TRUNGTRUC/app/src/main/res/menu/mymenu.xml" value="0.1" />
+        <entry key="..\:/GITHUB/NOPBAIKT2_TRUNGTRUC/TRUNGTRUC/app/src/main/res/layout/item.xml" value="0.264" />
+        <entry key="..\:/GITHUB/NOPBAIKT2_TRUNGTRUC/TRUNGTRUC/app/src/main/res/layout/item_product.xml" value="0.264" />
+        <entry key="..\:/GITHUB/NOPBAIKT2_TRUNGTRUC/TRUNGTRUC/app/src/main/res/menu/menu_main.xml" value="0.264" />
+        <entry key="..\:/GITHUB/NOPBAIKT2_TRUNGTRUC/TRUNGTRUC/app/src/main/res/menu/mymenu.xml" value="0.2" />
         <entry key="..\:/Users/ADMIN/Desktop/TRUNGTRUC/app/src/main/res/drawable/botron.xml" value="0.26614583333333336" />
         <entry key="..\:/Users/ADMIN/Desktop/TRUNGTRUC/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
         <entry key="..\:/Users/ADMIN/Desktop/TRUNGTRUC/app/src/main/res/layout/activity_main15.xml" value="0.1793478260869565" />

@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
 
         });
         img4.setOnClickListener(v ->{
-            i=new Intent(MainActivity.this,MainActivity5.class);
+            i=new Intent(MainActivity.this,Listview5Activity.class);
             startActivity(i);
 
         });
@@ -56,6 +56,7 @@ public class MainActivity extends AppCompatActivity {
             startActivity(i);
 
         });
+
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
